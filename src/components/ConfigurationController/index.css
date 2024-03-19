@@ -1,0 +1,32 @@
+.config-cont {
+  background-color: #475569;
+  padding: 20px;
+  padding-left: 35px;
+  height: 200px;
+}
+
+.config-h1 {
+  color: #f1f5f9;
+  font-size: 30px;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.input-cont {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.label {
+  color: #f1f5f9;
+  font-size: 17px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+@media screen and (min-width: 768px) {
+  .config-cont {
+    padding-left: 80px;
+  }
+}

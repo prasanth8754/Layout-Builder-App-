@@ -1,0 +1,13 @@
+.header-cont {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+}
+
+.header-h1 {
+  color: #475569;
+  font-size: 30px;
+}
